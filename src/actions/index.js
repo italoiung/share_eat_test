@@ -1,0 +1,1 @@
+export const addMeal = place => ({ type: 'ADD_MEAL', payload: { place } })
