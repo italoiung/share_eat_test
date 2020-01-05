@@ -82,6 +82,10 @@ const Submit = styled.button`
     border: 0;
     border-radius: 4px;
     cursor: pointer;
+    @media (max-height: 512px) {
+        position: relative;
+        margin-top: 16px;
+    }
 `
 const StyledForm = styled.form`
     margin-top: 22px;
