@@ -25,7 +25,7 @@ const Container = styled.div`
 `
 const Wrapper = styled.div`
     position: relative;
-    height: calc(100vh - 50px)
+    min-height: calc(100vh - 50px)
 `
 const Input = styled.input`
     background-color: #FFFFFF;
