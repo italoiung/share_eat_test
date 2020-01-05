@@ -6,4 +6,5 @@ Foi utilizado, também, o react router para fazer os links entre as páginas.
 
 Para instalar, basta clonar/baixar o repositório e rodar npm install ou yarn install e, em seguida, npm start ou yarn start
 
-Se desejado, é possível visualizar uma versão hospedada do projeto.
+Se desejado, é possível visualizar uma versão hospedada do projeto através do seguinte link
+[teste.iung.me](http://teste.iung.me/)
